@@ -7,3 +7,7 @@ Welcome!
 ## Purpose
 
 The king of algorithm ...
+
+## Theme
+
+- greedy
