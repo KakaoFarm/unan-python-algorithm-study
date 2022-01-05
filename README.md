@@ -1,13 +1,18 @@
 # unanAlgorithmStudy
 
-
 ## Unan Personal Algorithm Study Repository
-Welcome!
+Welcome my repsoitory!
+In my repository, there are solutions of algorithm problems and feedback...
+
 
 ## Purpose
 
-The king of algorithm ...
+1. The king of algorithm ...
+2. Solve many algorithm problems...
+
 
 ## Theme
 
+- Python Basic
 - greedy
+- DFS/BPS
