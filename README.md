@@ -1,7 +1,7 @@
 # unanAlgorithmStudy
 
 ## Unan Personal Algorithm Study Repository
-Welcome my repsoitory!
+Welcome my repsoitory! \
 In my repository, there are solutions of algorithm problems and feedback...
 
 
@@ -15,4 +15,16 @@ In my repository, there are solutions of algorithm problems and feedback...
 
 - Python Basic
 - greedy
+- Implementation
 - DFS/BPS
+- Sorting
+
+## Lectrue & textbook
+- 코테대비반 with python in CAU
+- 이것이 코딩테스트다 with 파이썬
+## Problem Source
+- Codeup
+- BaekJoon
+  
+## References
+ 
