@@ -17,3 +17,8 @@ for i in range(len(p[0])):
             
 
 print(''.join(x))
+
+'''
+c.user.mike.programs
+c.user.nike.programs
+c.user.rice.programs'''

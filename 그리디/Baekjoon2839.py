@@ -6,7 +6,7 @@ while M % 5 != 0:
     M = M - 3
     result += 1
     if M < 0:
-        M += 3
+        M += 318
         break
 
 if  M % 5 != 0:
