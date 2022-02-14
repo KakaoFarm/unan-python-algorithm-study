@@ -18,6 +18,8 @@ In my repository, there are solutions of algorithm problems and feedback...
 - Implementation
 - DFS/BPS
 - Sorting
+- Mathematics
+- String
 
 ## Lectrue & textbook
 - 코테대비반 with python in CAU
