@@ -2,7 +2,6 @@
 
 ## Unan Personal Algorithm Study Repository
 Welcome my repsoitory! \
-In my repository, there are solutions of algorithm problems and feedback...
 
 
 ## Purpose
@@ -25,9 +24,12 @@ In my repository, there are solutions of algorithm problems and feedback...
 ## Lecture & textbook
 - 코테대비반 with python in CAU
 - 이것이 코딩테스트다 with 파이썬
+
 ## Problem Source
 - Codeup
 - BaekJoon
+- Programmers
+- etc
   
 ## Class (Solved.ac)
 - Class 1 (Clear)
