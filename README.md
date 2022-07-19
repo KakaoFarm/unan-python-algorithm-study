@@ -1,15 +1,13 @@
 # unanAlgorithmStudy
 
 ## Unan Personal Algorithm Study Repository
-Welcome my repsoitory! \
-
 
 ## Purpose
 
 1. The king of algorithm ...
 2. Solve many algorithm problems...
 3. Learning concepts of algorithm...
-
+4. ENJOY solving the problem!😃
 
 ## Theme
 
@@ -20,6 +18,8 @@ Welcome my repsoitory! \
 - Sorting
 - Mathematics
 - String
+- Brute Force
+- Data Structure
 
 ## Lecture & textbook
 - 코테대비반 with python in CAU
@@ -32,8 +32,9 @@ Welcome my repsoitory! \
 - etc
   
 ## Class (Solved.ac)
-- Class 1 (Clear)
-- Class 2 (Ing...)
+- Class 1, Class 1+ (Clear)
+- Class 2, Class 2+ (Clear)
+- Class 3 (Ing)
 
 ## References
  
